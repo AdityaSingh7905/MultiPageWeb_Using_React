@@ -1,0 +1,25 @@
+.block{
+    width: 50%;
+    height: 50vh;
+    position: fixed;
+    top: 25vh;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #343435d7;
+    border-radius: 6px;
+    z-index: 10;
+    color: white;
+}
+.block p{
+    font-size: 1.25rem;
+}
+.block button{
+    background-color: black;
+    border-radius: 6px;
+    color: white;
+    font-size: 1.25rem;
+    padding: 1rem;
+    margin: 0.25rem;
+    border: none;
+
+}
